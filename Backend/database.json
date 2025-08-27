@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "time23",
+      "password": "$2b$10$VH9JJgbAD34fgZXR2kf/5uSERUj7z7AgFHyWwglbENEbzzWjVN64K"
+    }
+  ],
+  "activityLogs": []
+}
